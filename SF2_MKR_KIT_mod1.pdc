@@ -1,0 +1,34 @@
+set_io {Board_MOD1_0}  \
+    -pinname 83         \
+    -fixed yes          \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_MOD1_1}  \
+    -pinname 81         \
+    -fixed yes          \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_MOD1_2}  \
+    -pinname 90         \
+    -fixed yes          \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_MOD1_3}  \
+    -pinname 93         \
+    -fixed yes          \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_MOD1_4}  \
+    -pinname 88         \
+    -fixed yes          \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_MOD1_5}  \
+    -pinname 82         \
+    -fixed yes          \
+    -DIRECTION OUTPUT

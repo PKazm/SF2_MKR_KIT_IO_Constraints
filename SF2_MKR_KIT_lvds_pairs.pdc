@@ -1,0 +1,10 @@
+set_io PADN           \
+    -pinname 90       \
+    -fixed yes        \
+    -DIRECTION INPUT
+
+
+set_io PADP           \
+    -pinname 88       \
+    -fixed yes        \
+    -DIRECTION INPUT

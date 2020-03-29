@@ -1,0 +1,28 @@
+set_io {Board_J7_0}   \
+    -pinname 92        \
+    -fixed yes         \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_J7_1}   \
+    -pinname 16        \
+    -fixed yes         \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_J7_2}   \
+    -pinname 94        \
+    -fixed yes         \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_J7_3}   \
+    -pinname 21        \
+    -fixed yes         \
+    -DIRECTION OUTPUT
+
+
+set_io {Board_J7_4}   \
+    -pinname 22        \
+    -fixed yes         \
+    -DIRECTION OUTPUT
