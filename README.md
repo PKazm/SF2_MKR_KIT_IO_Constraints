@@ -7,6 +7,8 @@ Files ending in "vector" are groupings of pin connections. The normal version is
 * SF2_MKR_KIT_mod1.pdc
 * SF2_MKR_KIT_mod1_vector.pdc
 * SF2_MKR_KIT_esp8266.pdc
+* SF2_MKR_KIT_lvds_pairs.pdc
+   * lvds_pairs are a subset of mod1 pins, they correspond to a single LVDS input
 
 #### J7 pins:
 * SF2_MKR_KIT_J7.pdc
